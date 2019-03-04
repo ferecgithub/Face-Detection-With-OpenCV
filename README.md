@@ -23,4 +23,4 @@ https://docs.opencv.org/2.4/doc/tutorials/introduction/java_eclipse/java_eclipse
 ### Animated Image of Application
 ![alt text][logo]
 
-[logo]: https://github.com/ferecgithub/Face-Detection-With-OpenCV/tree/master/WebcamDetector/imagesFaceDetOpenCVinJava.gif "Face Detection App"
+[logo]: https://github.com/ferecgithub/Face-Detection-With-OpenCV/blob/master/WebcamDetector/images/FaceDetOpenCVinJava.gif "Face Detection App"
