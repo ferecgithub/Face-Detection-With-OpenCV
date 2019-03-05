@@ -9,7 +9,7 @@ A face detection application that was made for introduction to OpenCV in Java.
 * Usage of setLookAndFeel method in Swing library
 * Implementation of video capture in Java
 
-## How To Use
+### How To Use
 
 1. The application was written in Eclipse IDE. You can download it from this link:
 https://www.eclipse.org/downloads/packages/release/2018-12/r/eclipse-ide-enterprise-java-developers
